@@ -1,0 +1,15 @@
+
+.my-card{
+    border-radius: 25px;
+}
+.my-badge{
+    width: 72px;
+    position: relative;
+    top: -10px;
+    border-radius: 20px;
+}
+.my-button{
+    background-color: white;
+    color:#0275d8;
+    border-radius: 20px;    
+}
