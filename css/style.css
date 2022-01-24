@@ -1,5 +1,6 @@
 
 .my-card{
+    border: none;
     border-radius: 25px;
 }
 .my-badge{
@@ -12,4 +13,11 @@
     background-color: white;
     color:#0275d8;
     border-radius: 20px;    
+}
+.my-img{
+    width: 95px;
+}
+.my-client-card{
+    border-radius: 5px;
+    box-shadow: 0 0 15px lightgrey;
 }
